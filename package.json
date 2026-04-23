@@ -1,0 +1,42 @@
+{
+ "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.21",
+    "fluent-ffmpeg": "^2.1.2",
+    "request": "^2.88.2",
+    "acrcloud": "^1.4.0",
+    "axios": "^1.13.2",
+    "cfonts": "^3.3.1",
+    "chalk": "^5.6.2",
+    "cheerio": "^1.1.2",
+    "colors": "^1.4.0",
+    "fake-useragent": "^1.0.1",
+    "file-type": "^21.1.1",
+    "fs-extra": "^11.3.2",
+    "linkifyjs": "^4.3.2",
+    "moment-timezone": "^0.6.0",
+    "multistream": "^4.1.0",
+    "node-cache": "^5.1.2",
+    "node-fetch": "^3.3.2",
+    "node-webpmux": "^3.2.1",
+    "pino": "^10.1.0",
+    "qrcode-terminal": "^0.12.0",
+    "scr-emoji": "^0.0.3",
+    "yt-search": "^2.13.1"
+},
+  "name": "KANADE V4",
+  "description": "KANDA VERSÃO ULTRA MAX",
+  "version": "4.0.0",
+  "notice": "New Version",
+  "update_date": "23-01-2026",
+  "main": "maki.js",
+  "scripts": {
+    "start": "ulimit -c 0 && bash start.sh sim",
+    "test": "node maki-call.js"
+},
+  "author": "FANTASMA MODS",
+  "license": "MIT",
+  "bugs": {
+  "url": "https://github.com/dylanmodz"
+},
+  "homepage": "https://tokito-apis-site"
+}

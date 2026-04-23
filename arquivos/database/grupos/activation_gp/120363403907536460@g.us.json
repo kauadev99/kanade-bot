@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Teste",
+    "groupId": "120363403907536460@g.us",
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": false,
+    "antilinkhard": false,
+    "antilinkeasy": false,
+    "Antifake": false,
+    "antiporn": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": false,
+    "antistatus": false,
+    "anticatalogo": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [],
+    "advertir": [],
+    "prefixos": [
+      "<"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "ausentes": [],
+    "ANTI_DDD": {
+      "active": false,
+      "listaProibidos": []
+    },
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": false,
+        "legendabv1": "「🧊」 #numerodele#\n- *💙 | ᴜᴍ ɴᴏᴠᴏ ᴍᴇᴍʙʀᴏ ᴇɴᴛʀᴏᴜ ɴᴏ ɢʀᴜᴘᴏ…* ↴\n\n『🧊』ɢʀᴜᴘᴏ #nomedogp#\n\n*ꜰɪᴄᴀᴍᴏꜱ ᴍᴜɪᴛᴏ ꜰᴇʟɪᴢᴇꜱ ᴘᴏʀ ᴛᴇʀ ᴠᴏᴄᴇ̂ ᴄᴏɴᴏꜱᴄᴏ.*\n『💙』 ᴘᴀʀᴀ ɢᴀʀᴀɴᴛɪʀ ᴀ ᴍᴇʟʜᴏʀ ᴇxᴘᴇʀɪᴇ̂ɴᴄɪᴀ,\nʟᴇɪᴀ ᴀ ᴅᴇꜱᴄʀɪᴄ̧ᴀ̃ᴏ ᴅᴏ ɢʀᴜᴘᴏ ᴇ ꜱᴇ ꜰᴀᴍɪʟɪᴀʀɪᴢᴇ ᴄᴏᴍ ᴀꜱ ʀᴇɢʀᴀꜱ.\n\n> *🧊 | ᴍᴀɴᴛᴇɴʜᴀ ᴏ ʀᴇꜱᴘᴇɪᴛᴏ ᴇ ᴀ ᴏʀᴅᴇᴍ.*",
+        "legendasaiu1": "「💙」 #numerodele#\n- *🧊 | ᴜᴍ ᴍᴇᴍʙʀᴏ ꜱᴀɪᴜ ᴅᴏ ɢʀᴜᴘᴏ…* ↴\n\n『🧊』ɢʀᴜᴘᴏ #nomedogp#\n\n*ᴀɢʀᴀᴅᴇᴄᴇᴍᴏꜱ ᴘᴇʟᴀ ᴘᴀʀᴛɪᴄɪᴘᴀᴄ̧ᴀ̃ᴏ.*\n『💙』 ʟᴇᴍʙʀᴀᴍᴏꜱ ᴀ ɪᴍᴘᴏʀᴛᴀ̂ɴᴄɪᴀ\nᴅᴇ ᴍᴀɴᴛᴇʀ ᴏ ʀᴇꜱᴘᴇɪᴛᴏ ᴇ ᴀ ᴏʀᴅᴇᴍ.\n\n> *🧊 | ᴏ ʀᴇꜱᴘᴇɪᴛᴏ ᴇ́ ᴇꜱꜱᴇɴᴄɪᴀʟ.*"
+      },
+      {
+        "bemvindo2": false,
+        "legendabv2": "「💙」 #numerodele#\n- *🧊 | ᴍᴀɪꜱ ᴜᴍ ᴍᴇᴍʙʀᴏ ᴄʜᴇɢᴏᴜ ᴀᴏ ɢʀᴜᴘᴏ…* ↴\n\n『🧊』ɢʀᴜᴘᴏ #nomedogp#\n\n*ꜱᴇᴊᴀ ᴍᴜɪᴛᴏ ʙᴇᴍ-ᴠɪɴᴅᴏ(a)!*\n\n『💙』 ʟᴇɪᴀ ᴀ ᴅᴇꜱᴄʀɪᴄ̧ᴀ̃ᴏ\nᴇ ꜱɪɢᴀ ᴀꜱ ʀᴇɢʀᴀꜱ ᴘᴀʀᴀ ᴜᴍᴀ ʙᴏᴀ ᴄᴏɴᴠɪᴠᴇ̂ɴᴄɪᴀ.\n> *🧊 | ᴊᴜɴᴛᴏꜱ ᴍᴀɴᴛᴇᴍᴏꜱ ᴛᴜᴅᴏ ᴇᴍ ᴇǫᴜɪʟɪʙʀɪᴏ.*",
+        "legendasaiu2": "「🧊」 #numerodele#\n- *💙 | ᴏ ᴄɪᴄʟᴏ ꜰᴏɪ ᴇɴᴄᴇʀʀᴀᴅᴏ…* ↴\n\n『🧊』ɢʀᴜᴘᴏ #nomedogp#\n\n*ᴀɢʀᴀᴅᴇᴄᴇᴍᴏꜱ ᴏ ᴛᴇᴍᴘᴏ ᴄᴏɴᴏꜱᴄᴏ.*\n『💙』 ᴍᴀɴᴛᴇʀ ᴏ ʀᴇꜱᴘᴇɪᴛᴏ ᴇ ᴀ ᴏʀᴅᴇᴍ\nᴇ́ ꜰᴜɴᴅᴀᴍᴇɴᴛᴀʟ.\n\n> *🧊 | ᴛᴜᴅᴏ ꜱᴇɢᴜᴇ ᴇᴍ ʜᴀʀᴍᴏɴɪᴀ.*"
+      },
+      {
+        "bemvindo3": false,
+        "legendabv3": "💙 | ɴᴏᴠᴏ ᴍᴇᴍʙʀᴏ ᴅᴇᴛᴇᴄᴛᴀᴅᴏ!\n🧊: #numerodele#\n🧊 ɢʀᴜᴘᴏ: #nomedogp#\n\nʀᴇꜱᴘᴇɪᴛᴇ ᴛᴏᴅᴏꜱ ᴇ ᴅɪᴠɪʀᴛᴀ-ꜱᴇ! 😎",
+        "legendasaiu3": "⚠️ | ᴜᴍ ᴍᴇᴍʙʀᴏ ꜱᴀɪᴜ...\n🧊: #numerodele#\n🧊 ɢʀᴜᴘᴏ: #nomedogp#\n\nᴇꜱᴘᴇʀᴀᴍᴏꜱ ǫᴜᴇ ᴠᴏʟᴛᴇ ᴀʟɢᴜᴍ ᴅɪᴀ!",
+        "fundobv3": null,
+        "fundobv3_tipo": null,
+        "fundosaiu3": null,
+        "fundosaiu3_tipo": null
+      },
+      {
+        "bemvindofig": false,
+        "figAdd": null,
+        "figRemove": null
+      }
+    ],
+    "simi1": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": false,
+    "level": false,
+    "bangp": false,
+    "autodown": false
+  }
+]

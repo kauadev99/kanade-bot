@@ -1,0 +1,10 @@
+[
+  {
+    "cmdSemPrefixo": "m",
+    "comandoOriginal": "menu"
+  },
+  {
+    "cmdSemPrefixo": "d",
+    "comandoOriginal": "d"
+  }
+]
